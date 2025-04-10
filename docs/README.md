@@ -1,4 +1,4 @@
-# RepositorioTemplate
+# Grupo 03 - Plante Vc Mesmo
 Esse repositório é para ser utilizado pelos grupos como um template inicial.
 As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
 Demais diretrizes constam no Moodle.
