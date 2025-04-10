@@ -10,3 +10,5 @@
     - [1.3. Modelagem BPMN](./Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](./Base/1.5.IniciativasExtras.md)
+      - [1.5.1 Heatmap](./Base/iniciativas-extras/1.5.1.heatmap.md)
+      - [1.5.2 Ferramentas](./Base/iniciativas-extras/1.5.2.ferramentas.md)
