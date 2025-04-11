@@ -12,7 +12,7 @@ Com o objetivo de manter um contato assíncrono e facilitar a comunicação entr
 
 <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVIG9iqTs=/?pres=1&frameId=3458764624434145903&embedId=72144452715" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b>  [Todos da Equipe](/), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Arthur Ribeiro e Sousa][artrsousa1], [Caio Falcão Habibe][CaioHabibe], [Caio Felipe Rocha][caio-felipee], [Caio Magalhães Lamego][caiolamego], [Davi Araújo Bady Casseb][dcasseb], [Gabriel Fernando De Jesus Silva][MMcLovin], [Mateus Vieira Rocha da Silva][mateusvrs], [Matheus de Siqueira Brant][MatheussBrant], [Pedro Henrique Fernandino da Silva][PedroHenrique061], [Rafael Melo Matuda][rmatuda], 2025</p></font>
 
 ## Bibliografia
 > MORAES, Mariluce. Ebook: Mapas Mentais. Learning Coach. Disponível em: https://www.learningcoach.com.br/wp-content/uploads/sites/14/Ebook-mapas-mentais.pdf. Acesso em: 05 abril 2025.
@@ -22,3 +22,16 @@ Com o objetivo de manter um contato assíncrono e facilitar a comunicação entr
  | Versão | Data | Descrição | Autor | 
  | :----: | :--: | :-------: | :---: | 
  | `1.0`| 10/04 | Criação do documento | [Caio Felipe Rocha Rodrigues](https://github.com/caio-felipee) e [Arthur Ribeiro e Sousa](https://github.com/artrsousa1) |  
+ | `1.1`| 11/04 | Troca autores das imagens de "todos" para nomes individuais | [Gabriel Fernando de Jesus Silva][MMcLovin] |  
+
+
+[artrsousa1]: https://github.com/artrsousa1  
+[CaioHabibe]: https://github.com/CaioHabibe  
+[caio-felipee]: https://github.com/caio-felipee  
+[caiolamego]: https://github.com/caiolamego  
+[dcasseb]: https://github.com/dcasseb  
+[MMcLovin]: https://github.com/MMcLovin  
+[mateusvrs]: https://github.com/mateusvrs  
+[MatheussBrant]: https://github.com/MatheussBrant  
+[PedroHenrique061]: https://github.com/PedroHenrique061  
+[rmatuda]: https://github.com/rmatuda  
