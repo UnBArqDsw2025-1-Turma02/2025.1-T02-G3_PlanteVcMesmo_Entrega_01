@@ -1,33 +1,15 @@
-** Projetos - Período   2025.1
+# Projeto
 
-Segue a lista de projetos desse período letivo:
+Este repositório foi desenvolvido como parte da disciplina de Arquitetura e Desenho de Software (2025.1), com a proposta de criar uma aplicação voltada para o gerenciamento de plantas e agendamento de cuidados, como regas, podas e trocas de vaso. O sistema será implementado como uma solução web (mobile first), conforme a estratégia definida pela equipe. O objetivo é entregar um MVP, intuitivo e alinhado às necessidades dos usuários, aplicando na prática os princípios de arquitetura e desenho de software.
 
-    • G1 até 10 membros
-    • Projeto G1 - Embarcado, baseado em uma Biblioteca de Integração ou alguma automação, no contexto, por exemplo, do Arduíno.
-    • Não usar o nome de uma biblioteca real. A ideia é usar o nome G1_Embarcado mesmo, e apenas se basear em uma comunidade especializada para fins de identificar um problema no contexto de embarcados, o público-alvo, principais funcionalidades, dentre outros detalhes. Não pegar algo pronto. Pensar em uma proposta nova.
+## Primeira Entrega
 
-    • G2 até 10 membros
-    • Projeto G2 - PinacotecaOnline, baseado em sites de Pinacotecas Virtuais, podendo ser em versão site, desktop ou aplicativo móvel.
-    • Não usar o nome de uma pinacoteca real. A ideia é usar o nome G2_PinacotecaOnline mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+O grupo fez um desenvolvimento integrado, de forma que todos os membros participaram de todas as etapas do projeto. A primeira entrega foi focada na fase de Design Sprint. Para organização e documentação do projeto, utilizamos o Miro, uma ferramenta colaborativa que nos permitiu criar um quadro de Design Sprint, onde registramos as etapas do processo.
 
-    • G3 até 10 membros
-    • Projeto G3 - EuMeAmo, baseado em sites e/ou materiais informativos sobre cuidados gerais com postura, exercícios físicos regulares, e outros. Pode ser em versão site, desktop ou aplicativo móvel.
-    • Não usar o nome do site real. A ideia é usar o nome G3_EuMeAmo mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIG9iqTs=/?moveToViewport=-11271,-7825,42269,31923&embedId=303686107512" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-    • G4 até 10 membros
-    • Projeto G4 - QuemFazNiver_GostaDe, baseado em qualquer inspiração envolvendo aniversários, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, a dica é conferir, além de uma simples agenda de aniversários, também sugestões de presentes, temas de festa, dentre outros itens personalizados para quem faz aniversário.
-    • Não usar o nome do site real. A ideia é usar o nome G4_QuemFazNiver_GostaDe mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+## Histórico de Versão
 
-    • G5 até 10 membros
-    • Projeto G5 - MundoMusical, sendo um Jogo para Aprendizado sobre Teoria e Prática Musical, baseado sites e materiais didáticos sobre música, podendo ser em versão site, desktop ou aplicativo móvel. 
-    • Não usar o nome de algo real. A ideia é usar o nome G5_MundoMusical mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
-
-    • G6 até 10 membros
-    • Projeto G6 - FCTEDesapega, baseado em sites de anúncio de algo que não interessa mais para alguém, mas pode ser valoroso para outros, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, espera-se um software mirado na comunidade FCTE, com possibilidade de anúncios de algo que não mais é desejado, suas características, valor ou doação ou troca, dentre outros.
-    • Não usar o nome de algo real. A ideia é usar o nome G6_FCTEDesapega mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
-
-    • G7 até 10 membros
-    • Projeto G7 - FCTEPodcast, baseado em um software contendo podcasts, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, espera-se um software mirado na comunidade FCTE, com possibilidade de postagens de podcasts educacionais, explicando tópicos de diferentes matérias por parte dos docentes, monitores, discentes e convidados da comunidade.
-    • Não usar o nome de algo real. A ideia é usar o nome G7_FCTEPodcast mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
-
-OBS: Caso existam novos matriculados na disciplina, acima de 70 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
+| Versão | Data | Descrição | Autor(es) |
+| :-: | :-: | :-: | :-: |
+| `1.0` | 10/04/2025  | Descrição do projeto | [Mateus Vieira](https://github.com/mateusvrs) |
