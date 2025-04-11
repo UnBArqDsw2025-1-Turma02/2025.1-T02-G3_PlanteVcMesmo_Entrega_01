@@ -11,7 +11,7 @@
       - [1.1.3 Sketch](./Base/DesignSprint/1.1.3.Sketch.md)
       - [1.1.4 Decide](./Base/DesignSprint/1.1.4.Decide.md)
       - [1.1.5 Prototype](./Base/DesignSprint/1.1.5.Prototype.md)
-
+      - [1.1.6 Validate](./Base/DesignSprint/1.1.6.Validate.md)
     - [1.2. Artefato Generalista](./Base/1.2.ArtefatoGeneralista.md)
     - [1.3. Modelagem BPMN](./Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações](./Base/1.4.ParticipacoesBase.md)
