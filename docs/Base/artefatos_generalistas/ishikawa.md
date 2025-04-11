@@ -6,7 +6,7 @@ O Diagrama de Causa-Efeito, também conhecido como Diagrama de Ishikawa ou Espin
 ## Como funciona?
 O problema analisado é colocado na ponta do diagrama. Depois disso, linhas principais são traçadas em direção ao problema, representando as categorias de causas. A partir dessas categorias, detalham-se possíveis causas e subcausas. Com isso, a equipe pode investigar e identificar as raízes do problema com mais clareza.
 
-<img src="../../assets/ishikawa.jpg"/>
+<img src="./assets/ishikawa.jpg"/>
 
 <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVIG9iqTs=/?pres=1&frameId=3458764624412479891&embedId=743256574401" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 

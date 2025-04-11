@@ -1,17 +1,25 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](./)
-- [Projetos](./Projeto/Projeto.md)
+- [Projeto](./Projeto/Projeto.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
-    - [1.1. Design Sprint](./Base/1.1.DesignSprint.md)
+    - [1.1. Design Sprint](./Base/DesignSprint/1.1.DesignSprint.md)
+      - [1.1.1. Understand](./Base/DesignSprint/1.1.1.Understand.md)
+      - [1.1.2 Define](./Base/DesignSprint/1.1.2.Define.md)
+      - [1.1.3 Sketch](./Base/DesignSprint/1.1.3.Sketch.md)
+      - [1.1.4 Decide](./Base/DesignSprint/1.1.4.Decide.md)
+      - [1.1.5 Prototype](./Base/DesignSprint/1.1.5.Prototype.md)
+      - [1.1.6 Validate](./Base/DesignSprint/1.1.6.Validate.md)
     - [1.2. Artefato Generalista](./Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. 5W2H](./Base/artefatos_generalistas/5w2h.md)
       - [1.2.2. Mapa Mental](./Base/artefatos_generalistas/mindMap.md)
       - [1.2.3. Diagrama causa-efeito](./Base/artefatos_generalistas/ishikawa.md)
       - [1.2.4. Léxico](./Base/artefatos_generalistas/lexico.md)
-    - [1.3. Modelagem BPMN](./Base/1.3.ModelagemBPMN.md)
+    - [1.3. Modelagem BPMN](./Base/bpmn/1.3.ModelagemBPMN.md)
+      - [1.3.1 Fluxo de Uso](./Base/bpmn/1.3.1.FluxoDeUso.md)
+      - [1.3.2 Metodologia](./Base/bpmn/1.3.2.Metodologia.md)
     - [1.4. Participações](./Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras](./Base/1.5.IniciativasExtras.md)
       - [1.5.1 Heatmap](./Base/iniciativas-extras/1.5.1.heatmap.md)
