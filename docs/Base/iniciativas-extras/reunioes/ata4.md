@@ -5,7 +5,9 @@
 Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo da disciplina, contendo as pautas das reuniões, os integrantes que participaram, local, hora e data, os resultados discutidos das pautas, o link da gravação da reunião e o histórico de versão do documento. 
 
 ## Pautas da reunião:
-
+* Dar início à quarta etapa do Design Sprint
+* Terminar artefatos não finalizados nas últimas etapas
+* Separar atividade entre integrantes
 
 ## Integrantes presentes:
 
@@ -28,13 +30,16 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Data | Início | Fim | Local |
 | ---- | ------ | --- | ----- |
-| 09/04/2025 |  |  | Discord |
+| 09/04/2025 | 20:30 | 22:30 | Discord |
 
 </center>
 
 <font size="2" > <p style="text-align: center"> Fonte: [Gabriel Fernando de Jesus Silva][MMcLovin], 2025. </p> </font>
 
 ## Resultados da reunião
+<p style="text-align:justify">
+    Foram realizadas enquetes para contemplar os membros que não puderam estar presentes na reunião, com o intuito de organizara as atividades relacionadas aos commits e ao andamento do projeto. Foram definidos os responsáveis por entregas como Design Sprint, Artefato Generalista, BPMN e Iniciativas Extras. Também foi dado continuidade ao desenvolvimento do protótipo para a quarta etapa do design sprint. Além disso, uma segunda enquete foi realizada para decidir em que cada um iria trabalhar até o dia seguinte, com opções entre BPMN, Figma e Artefatos Generalistas. Um aviso foi enviado no grupo pedindo que todos participassem da votação.
+</p>
 
 ## Histórico de Versão
 

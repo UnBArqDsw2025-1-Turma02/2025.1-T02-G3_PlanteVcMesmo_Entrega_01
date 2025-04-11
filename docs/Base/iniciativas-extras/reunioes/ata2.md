@@ -1,21 +1,24 @@
 # Reunião 2 - 07/04/2025
 
 ## Introdução
-
-Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo da disciplina, contendo as pautas das reuniões, os integrantes que participaram, local, hora e data, os resultados discutidos das pautas, o link da gravação da reunião e o histórico de versão do documento. 
+<p style="text-align:justify">
+    Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo da disciplina, contendo as pautas das reuniões, os integrantes que participaram, local, hora e data, os resultados discutidos das pautas, o link da gravação da reunião e o histórico de versão do documento. 
+</p>
 
 ## Pautas da reunião:
-
+* Discutir quais métodos escolher para a segunda etapa do Design Sprint
+* Dar continuidade aos artefatos generalistas começados em sala de aula
+* Separar atividade entre integrantes
 
 ## Integrantes presentes:
 
-<label><input type="checkbox" checked disabled>[Arthur Ribeiro e Sousa][artrsousa1]</label><br>
-<label><input type="checkbox" checked disabled>[Caio Falcão Habibe][CaioHabibe]</label><br>
-<label><input type="checkbox" checked disabled>[Caio Felipe Rocha][caio-felipee]</label><br>
+<label><input type="checkbox" checked >[Arthur Ribeiro e Sousa][artrsousa1]</label><br>
+<label><input type="checkbox" checked >[Caio Falcão Habibe][CaioHabibe]</label><br>
+<label><input type="checkbox" checked >[Caio Felipe Rocha][caio-felipee]</label><br>
 <label><input type="checkbox" checked disabled>[Caio Magalhães Lamego][caiolamego]</label><br>
 <label><input type="checkbox" checked disabled>[Davi Araújo Bady Casseb][dcasseb]</label><br>
 <label><input type="checkbox" checked disabled>[Gabriel Fernando De Jesus Silva][MMcLovin]</label><br>
-<label><input type="checkbox" checked disabled>[Mateus Vieira Rocha da Silva][mateusvrs]</label><br>
+<label><input type="checkbox" checked >[Mateus Vieira Rocha da Silva][mateusvrs]</label><br>
 <label><input type="checkbox" checked disabled>[Matheus de Siqueira Brant][MatheussBrant]</label><br>
 <label><input type="checkbox" checked disabled>[Pedro Henrique Fernandino da Silva][PedroHenrique061]</label><br>
 <label><input type="checkbox" checked disabled>[Rafael Melo Matuda][rmatuda]</label><br>
@@ -35,6 +38,9 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <font size="2" > <p style="text-align: center"> Fonte: [Gabriel Fernando de Jesus Silva][MMcLovin], 2025. </p> </font>
 
 ## Resultados da reunião
+<p style="text-align:justify"> 
+    Foi dado continuidade ao processo do Design Sprint, avançando para a segunda fase. Foram selecionados três métodos a serem realizados no Miro, sendo que um deles já foi completamente desenvolvido previamente por um dos integrantes. Os outros dois métodos — Design Principles e Golden Path — ficaram pendentes para finalização até o dia seguinte, com prazo estipulado para as 18h. Os integrantes que não estavam presentes foram orientados a dividir as tarefas: para o método Design Principles decidimos que cerca de cinco pessoas o fizessem, adicionando ao menos um princípio cada. Já para o Golden Path, foi recomendado que dois ou três integrantes se organizem para realizá-lo em conjunto.
+</p>
 
 ## Histórico de Versão
 

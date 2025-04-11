@@ -5,7 +5,8 @@
 Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo da disciplina, contendo as pautas das reuniões, os integrantes que participaram, local, hora e data, os resultados discutidos das pautas, o link da gravação da reunião e o histórico de versão do documento. 
 
 ## Pautas da reunião:
-
+* Dar início à terceira etapa do Desgin Sprint
+* Separar atividade entre integrantes
 
 ## Integrantes presentes:
 
@@ -17,8 +18,8 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <label><input type="checkbox" checked >[Gabriel Fernando De Jesus Silva][MMcLovin]</label><br>
 <label><input type="checkbox" checked >[Mateus Vieira Rocha da Silva][mateusvrs]</label><br>
 <label><input type="checkbox" checked disabled>[Matheus de Siqueira Brant][MatheussBrant]</label><br>
-<label><input type="checkbox" checked disabled>[Pedro Henrique Fernandino da Silva][PedroHenrique061]</label><br>
-<label><input type="checkbox" checked disabled>[Rafael Melo Matuda][rmatuda]</label><br>
+<label><input type="checkbox" checked >[Pedro Henrique Fernandino da Silva][PedroHenrique061]</label><br>
+<label><input type="checkbox" checked >[Rafael Melo Matuda][rmatuda]</label><br>
 
 ## Informações da reunião
 
@@ -35,6 +36,9 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <font size="2" > <p style="text-align: center"> Fonte: [Gabriel Fernando de Jesus Silva][MMcLovin], 2025. </p> </font>
 
 ## Resultados da reunião
+<p style="text-align:justify">
+    Foi dado início à terceira fase do Design Sprint, focando em atividades voltadas para a etapa de Sketch. Foram selecionados e iniciados três métodos: "The Warm Up: Comparable Problem", "Boot Up Note Taking" e "Crazy 8's", todos disponíveis na metodologia oficial do Design Sprint Kit. Os integrantes foram orientados a ler as instruções de cada método e completá-los individualmente. Foi dado um destaque especial ao método Crazy 8's, que consiste em criar um protótipo de baixa fidelidade em papel, apresentando ideias e possíveis fluxos de uso da aplicação. Cada integrante deve tentar fazer sua própria versão do exercício em formato físico e enviar a foto do resultado no grupo para compartilhamento e discussão.
+</p>
 
 ## Histórico de Versão
 
