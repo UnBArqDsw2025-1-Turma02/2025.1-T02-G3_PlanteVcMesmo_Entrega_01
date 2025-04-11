@@ -130,4 +130,4 @@ Cada termo foi classificado em uma das três categorias: **Objeto** (substantivo
  
  | Versão | Data | Descrição | Autor | 
  | :----: | :--: | :-------: | :---: | 
- | `1.0`| 10/04 | Criação do documento | [Caio Felipe Rocha Rodrigues](https://github.com/caio-felipee) e [Arthur Ribeiro e Sousa](https://github.com/artrsousa1) |  
+ | `1.0`| 10/04 | Criação do documento | [Caio Felipe Rocha Rodrigues](https://github.com/caio-felipee), [Arthur Ribeiro e Sousa](https://github.com/artrsousa1) e [Pedro Henrique](https://github.com/PedroHenrique061) |  
